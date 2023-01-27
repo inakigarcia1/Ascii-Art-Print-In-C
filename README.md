@@ -1,4 +1,4 @@
-# Ascii-To-C
+# Ascii-Art-Print-In-C
 Python program to turn Ascii Art text into C/C++ print statements
 
 MAY NOT WORK PROPERLY IF USING NON-UTF8 CHARACTERS
