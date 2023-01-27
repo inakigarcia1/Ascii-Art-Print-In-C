@@ -10,5 +10,6 @@ HOW TO USE:
 5) Result will be stored in asciiOutput.txt, ready to be printed in C/C++
 
 Features:
-  * Adds cout<< at the beginning, \n; at the end, and puts the text between quotation marks.
-  * Changes all the backslashes (\) to double backslashes (\\) for escaping the character so it can be printed OK.
+  * C++: Adds cout<< at the beginning, \n; at the end, and puts the text between quotation marks.
+  * C: Adds printf(" at the beginning, puts the text between quotation marks, and finally \n and ; are added.
+  * C and C++: Changes all the backslashes (\) to double backslashes (\\) for escaping the character so it can be printed OK.
