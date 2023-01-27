@@ -1,6 +1,8 @@
 # Ascii-To-C
 Python program to turn Ascii Art text into C/C++ print statements
 
+MAY NOT WORK PROPERLY IF USING NON-UTF8 CHARACTERS
+
 HOW TO USE:
 
 1) Generate text in https://patorjk.com/software/taag/ (may work with other websites)
