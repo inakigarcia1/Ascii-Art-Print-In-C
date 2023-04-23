@@ -14,4 +14,4 @@ HOW TO USE:
 Features:
   * C++: Adds cout<< at the beginning, \n; at the end, and puts the text between quotation marks.
   * C: Adds printf(" at the beginning, puts the text between quotation marks, and finally \n and ; are added.
-  * C and C++: Changes all the backslashes (\) to double backslashes (\\) for escaping the character so it can be printed OK.
+  * C and C++: Changes all the backslashes (\\) to double backslashes (\\\\) for escaping the character so it can be printed OK.
